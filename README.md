@@ -12,8 +12,9 @@ The visitor-facing page at [github.com/mac-duo](https://github.com/mac-duo) is r
 
 | Repository | Summary |
 |------------|---------|
-| [**mac-duo**](https://github.com/mac-duo/mac-duo) | macOS app — Duo-style closing animation on MacBook |
-| [**.github**](https://github.com/mac-duo/.github) | Organization meta-repository (profile, governance, and automation) |
+| [**.github**](https://github.com/mac-duo/.github) | Public organization meta-repository (profile, governance, and automation) |
+
+The MacDUO application is developed in a **private** repository. The public org page is [github.com/mac-duo](https://github.com/mac-duo).
 
 ## Automation
 

@@ -12,15 +12,15 @@ The GitHub **public organization meta-repository** (`.github`) for [@mac-duo](ht
 | `README.md` | Meta-repo overview for maintainers |
 | `.github/` | Dependabot, CODEOWNERS, issue templates, and workflows |
 
-The main app lives in [**mac-duo/mac-duo**](https://github.com/mac-duo/mac-duo) — a SwiftUI macOS app for the Duo closing animation.
+The MacDUO app is developed in a **private** repository. Do not link to application source from the public org profile or marketing site — use [github.com/mac-duo](https://github.com/mac-duo) only.
 
 ---
 
 ## Maintaining the org profile
 
-When the organization adds or changes a public repository:
+When the public org profile changes:
 
-1. Add or update a row in [`profile/README.md`](profile/README.md).
+1. Update product copy and links in [`profile/README.md`](profile/README.md) (website, App Store, org URL — no private app repo links).
 2. Update the repositories table in [`README.md`](README.md) if needed.
 3. Record notable changes in [`CHANGELOG.md`](CHANGELOG.md).
 

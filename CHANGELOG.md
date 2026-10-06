@@ -9,15 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- **mac-duo organization** — Rebranded from open-templates scaffold to **MacDUO** public org profile and governance
-- **`profile/README.md`** — Visitor-facing catalog for [mac-duo](https://github.com/mac-duo) and the MacDUO macOS app
-- Removed adopter `templates/` layer after init (maintainer copy matches deployed `.github` repo)
+- **MacDUO** public org profile and governance at [github.com/mac-duo](https://github.com/mac-duo)
+- **`profile/README.md`** — visitor-facing catalog for MacDUO and links to the website and App Store
 
 ## [0.1.0] - 2026-08-17
 
 ### Added
 
-- Initial `.github-template` scaffold from @open-templates
+- Public GitHub organization meta-repository with `profile/README.md`, maintainer docs, Dependabot, CODEOWNERS, and issue/PR templates
+
+> Initial layout adapted from [@open-templates](https://github.com/open-templates) `.github` scaffold (August 2026).
 
 ---
 
